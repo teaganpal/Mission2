@@ -1,0 +1,14 @@
+/Users/teagan/RiderProjects/Mission2/bin/Debug/net8.0/Mission2
+/Users/teagan/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.deps.json
+/Users/teagan/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.runtimeconfig.json
+/Users/teagan/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.dll
+/Users/teagan/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.pdb
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfoInputs.cache
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfo.cs
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.csproj.CoreCompileInputs.cache
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.dll
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/refint/Mission2.dll
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.pdb
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.genruntimeconfig.cache
+/Users/teagan/RiderProjects/Mission2/obj/Debug/net8.0/ref/Mission2.dll
